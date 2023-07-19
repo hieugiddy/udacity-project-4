@@ -1,0 +1,40 @@
+2023-07-19 16:24:28,288 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on DESKTOP-PI5H5VJ with PID 5384 (D:\Source\Java\Project4\starter_code\target\classes started by Hieu in D:\Source\Java\Project4)
+2023-07-19 16:24:28,298 DEBUG com.example.demo.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-19 16:24:28,302 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-07-19 16:24:32,085 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-19 16:24:32,086 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2023-07-19 16:24:32,388 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-19 16:24:32,696 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-19 16:24:32,911 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-19 16:24:32,997 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-19 16:24:33,124 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-19 16:24:33,128 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-19 16:24:33,471 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-19 16:24:33,701 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-19 16:24:35,539 DEBUG com.example.demo.Security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-07-19 16:24:36,621 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 9.074 seconds (JVM running for 12.671)
+2023-07-19 16:25:14,469 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-19 16:27:39,767 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-19 16:27:40,340 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2023-07-19 16:27:49,005 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on DESKTOP-PI5H5VJ with PID 12408 (D:\Source\Java\Project4\starter_code\target\classes started by Hieu in D:\Source\Java\Project4)
+2023-07-19 16:27:49,010 DEBUG com.example.demo.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-19 16:27:49,012 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-07-19 16:27:55,645 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-19 16:27:55,646 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2023-07-19 16:27:55,971 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-19 16:27:56,315 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-19 16:27:56,550 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-19 16:27:56,721 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-19 16:27:56,956 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-19 16:27:56,959 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-19 16:27:58,213 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-19 16:27:58,702 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-19 16:28:01,575 DEBUG com.example.demo.Security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-07-19 16:28:02,690 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 14.427 seconds (JVM running for 16.765)
+2023-07-19 16:28:12,150 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-19 16:29:01,667 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-19 16:29:01,887 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
